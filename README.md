@@ -47,9 +47,7 @@ Run the Front End Application
 Visit this URL in your browser:
                           http://localhost:3000
                           
-      <br/>   
-   <br/> 
-   <br/>                      
+                          
                           
                         Dont get Confused with the name of repo. Just thought of giving a cool name :p 
     

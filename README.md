@@ -7,7 +7,7 @@ Instructions to try & use the application:
 <h1>Step 1</h1>
 Clone the project
 <br/>
-$ git clone https://github.com/AkhilVinayakMS/schrodinger-s-cat.git 
+<h4><i> $ git clone https://github.com/AkhilVinayakMS/schrodinger-s-cat.git </h4></i>
 <br/>
 <h1>Step 2.</h1>
 

@@ -15,7 +15,7 @@ Install dependencies
 $ npm install
 
 
-<h1>Step 3.<h1>
+<h1>Step 3.</h1>
   
  Start Ganache
 Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance.

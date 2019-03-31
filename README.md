@@ -6,8 +6,9 @@ Instructions to try & use the application:
 
 <h1>Step 1</h1>
 Clone the project
-<h4><i>$ git clone https://github.com/AkhilVinayakMS/schrodinger-s-cat.git </h4></i>
-
+<br/>
+$ git clone https://github.com/AkhilVinayakMS/schrodinger-s-cat.git 
+<br/>
 <h1>Step 2.</h1>
 
 Install dependencies
@@ -50,10 +51,8 @@ Visit this URL in your browser:
    <br/> 
    <br/>                      
                           
-                        <h4><i> Dont get Confused with the name of repo. Just thought of giving a cool name :p </i></h4>  
-   <br/>   
-   <br/> 
-   <br/> 
+                        Dont get Confused with the name of repo. Just thought of giving a cool name :p 
+    
 
 
 

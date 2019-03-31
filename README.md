@@ -42,3 +42,16 @@ Import an account provided by ganache.
 Run the Front End Application
 $ npm run dev Visit this URL in your browser:
                           http://localhost:3000
+                          
+                          
+                          
+                        <h4><i> Dont get Confused with the name of repo. Just thought of giving a cool name :p </i></h4>  
+   <br/>   
+   <br/> 
+   <br/> 
+
+
+
+
+
+

@@ -1,7 +1,11 @@
 <b>Distributed Voting Application</b>
 
 Created a decentralised voting application on Ethereum 
-[This is an absolute link to a nested folder](https://notebooks.azure.com/anon-jhu4eq/libraries/ReadmeLinkingTest/tree/testfolder)
+[Go To Step 1](https://github.com/AkhilVinayakMS/schrodinger-s-cat/blob/master/README.md#step-2)
+
+[Go To Step 2](https://github.com/AkhilVinayakMS/schrodinger-s-cat/blob/master/README.md#step-2)
+
+[Go To Step 3](https://github.com/AkhilVinayakMS/schrodinger-s-cat/blob/master/README.md#step-2)
 Instructions to try & use the application:
 
 <h1>Step 1</h1>

@@ -1,11 +1,11 @@
 <b>Distributed Voting Application</b>
 
 Created a decentralised voting application on Ethereum 
-[Go To Step 1](https://github.com/AkhilVinayakMS/schrodinger-s-cat/blob/master/README.md#step-2)
+[Go To Step 1](https://github.com/AkhilVinayakMS/schrodinger-s-cat/blob/master/README.md#step-1)
 
 [Go To Step 2](https://github.com/AkhilVinayakMS/schrodinger-s-cat/blob/master/README.md#step-2)
 
-[Go To Step 3](https://github.com/AkhilVinayakMS/schrodinger-s-cat/blob/master/README.md#step-2)
+[Go To Step 3](https://github.com/AkhilVinayakMS/schrodinger-s-cat/blob/master/README.md#step-3)
 Instructions to try & use the application:
 
 <h1>Step 1</h1>
